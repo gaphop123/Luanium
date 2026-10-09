@@ -19,7 +19,7 @@ No package manifests, no extra modules, no test files, no CI configs.
 
 ```lua
 local Luanium = loadstring(
-    game:HttpGet("https://raw.githubusercontent.com/OWNER/Luanium/main/luanium.luau")
+    game:HttpGet("https://raw.githubusercontent.com/gaphop123/Luanium/main/luanium.luau")
 )()
 
 print(Luanium:GetVersion())  -- "1.0.0"
